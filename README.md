@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajay-cloudops/ajay-cloudops/main/assets/ajay-original-quality-right-reveal.webp" width="100%" alt="Ajay Kumar Animated Intro">
+  <img src="https://raw.githubusercontent.com/ajay-cloudops/ajay-cloudops/main/assets/ajay-profile-reveal-once.webp" width="100%" alt="Ajay Kumar Animated Intro">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">B.Tech CSE Student | Cloud & DevOps Learner | GitHub Enthusiast</h3>
-
 ---
 
 ## 🚀 About Me
