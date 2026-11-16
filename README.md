@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ajay-cloudops/ajay-cloudops/main/assets/ajay-profile-reveal-once.png" width="100%" alt="Ajay Kumar Animated Intro">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
+<h1 align="center">Hi 👋 I'm Ajay Kumar</h1>
 <h3 align="center">B.Tech CSE Student | Cloud & DevOps Learner | GitHub Enthusiast</h3>
 
 ---
